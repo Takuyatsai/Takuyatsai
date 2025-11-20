@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I hope to achieve a grade better than C on this chart by 2026.😄
 
 <!--
 **Takuyatsai/Takuyatsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
